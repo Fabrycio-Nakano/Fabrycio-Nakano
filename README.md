@@ -1,18 +1,14 @@
 ## Hello Stranger 👋
 
+I’m Fabrycio Nakano, a Mechatronics Engineering and Artificial Intelligence graduate, Smart Buildings specialist, and researcher at the Center of Excellence in AI at UFG, Brazil. I work on AI for health systems, taking projects from data cleaning and modeling to prototypes that become services, with focus on impact and reproducibility. My background is robotics, so I turn complex problems into measurable, modular pipelines. I’m currently learning and applying Reinforcement Learning for control and decision support. Here you’ll find code, experiments, and research notes aimed at moving models from lab to real use. No hype. Just solid baselines, clear metrics, and frequent commits.
+
 <!--
 **Fabrycio-Nakano/Fabrycio-Nakano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on AI applied to health systems
+- 🌱 I’m currently learning Reinforcement learning
 -->
 
 ### Languages 
@@ -22,7 +18,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Fabrycio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabrycio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
-  
+
 ### Technologies
 <div>
 
@@ -75,4 +71,16 @@ Here are some ideas to get you started:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrycio-Nakano&theme=dark&layout=compact&custom_title=Languages&langs_count=9" 
   />
 </p>
+  
 </div>
+
+<div>
+
+### More about me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/fabrycioalmada/"><img width="60px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8288;
+  <a href="http://lattes.cnpq.br/7045956264102573" alt="Lattes" title="Currículo Lattes"><img width="60px" src="https://img.icons8.com/?size=100&id=KyGmCaneSs3k&format=png&color=000000)"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</div>
+ 
