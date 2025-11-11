@@ -22,23 +22,6 @@ Here are some ideas to get you started:
 ### Technologies
 <div>
 
-  <!-- Web Dev -->
-  <div style="font-weight:600; margin:6px 0;">Web Dev</div>
-  <img alt="React" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML5" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3"  height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <br><br>
-
-  <!-- Robótica -->
-  <div style="font-weight:600; margin:6px 0;">Robotics</div>
-  <img alt="ROS2"   height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg">
-  <img alt="OpenCV" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-  <img alt="CMake"  height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
-  <img alt="Docker" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Ubuntu" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img alt="Gazebo" height="30" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original-wordmark.svg" />
-  <br><br>
-
   <!-- Machine Learning & Data -->
   <div style="font-weight:600; margin:6px 0;">Machine Learning & Data</div>
   <img alt="TensorFlow"   height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
@@ -51,6 +34,32 @@ Here are some ideas to get you started:
   <img alt="Git"          height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="W&B"       height="30" style="margin-right:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/weightsandbiases.svg">
   <img alt="Gymnasium" height="30" style="margin-right:10px" src="https://github.com/Farama-Foundation/Gymnasium/blob/main/assets/wispr-flow.svg">
+
+
+
+  
+  <!-- Robótica -->
+  <div style="font-weight:600; margin:6px 0;">Robotics</div>
+  <img alt="ROS2"   height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg">
+  <img alt="OpenCV" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  <img alt="CMake"  height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
+  <img alt="Docker" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Ubuntu" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img alt="Gazebo" height="30" style="margin-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original-wordmark.svg" />
+
+
+
+  <!-- Web Dev -->
+  <div style="font-weight:600; margin:6px 0;">Web Dev</div>
+  <img alt="React" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML5" height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3"  height="30" style="margin-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br><br>
+
+
+  <br><br>
+
+
 </div>
 
 ### 📊 Statistics
