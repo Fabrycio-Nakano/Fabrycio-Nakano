@@ -1,4 +1,5 @@
 ## Hello Stranger 👋
+<img src="https://media1.tenor.com/m/m9V61nliVtoAAAAC/merchant-stranger.gif" width="360" />
 
 I’m Fabrycio Nakano, a Mechatronics Engineer and Artificial Intelligence graduate, Smart Buildings specialist, and researcher at the Center of Excellence in AI at UFG, Brazil. I work on AI for health systems, taking projects from data cleaning and modeling to prototypes that become services, with focus on impact and reproducibility. My background is robotics and Large Language Models, so I turn complex problems into measurable, modular pipelines. I’m currently learning and applying Reinforcement Learning for control and decision support. Here you’ll find code, experiments, and research notes aimed at moving models from lab to real use. No hype. Just solid baselines, clear metrics, and frequent commits.
 
