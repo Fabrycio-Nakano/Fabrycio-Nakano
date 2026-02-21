@@ -62,27 +62,6 @@ Here are some ideas to get you started:
 
 </div>
 
-### 📊 Statistics
-
-<div>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Fabrycio-Nakano&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&custom_title=GitHub_Statistics" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrycio-Nakano&theme=dark&layout=compact&custom_title=Languages&langs_count=9" 
-  />
-</p>
-  
-</div>
-
 <div>
 
 ### More about me:
